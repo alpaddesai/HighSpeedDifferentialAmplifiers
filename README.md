@@ -18,6 +18,6 @@
 
 ![image](USCopyrightCertificate.png)
 
-![image]()
+![image](EthicsandExcellence.png)
 
 Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
