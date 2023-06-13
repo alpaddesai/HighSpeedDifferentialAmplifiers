@@ -12,4 +12,4 @@
 
 ![image](DiffAmp6.JPG)
 
-Additional details reference 
+Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
