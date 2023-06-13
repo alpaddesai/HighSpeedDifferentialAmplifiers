@@ -16,4 +16,8 @@
 
 ![image](DiffAmpdesign2.jpg)
 
+![image](USCopyrightCertificate.png)
+
+![image]()
+
 Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
